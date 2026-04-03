@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1Is6u16RBbar1eV93fkAAdzCvUYIPyj8c
 """
 
-!pip install opencv-python matplotlib numpy
+!pip install opencv-contrib-python matplotlib numpy
 
 !wget -O left.png https://vision.middlebury.edu/stereo/data/scenes2021/data/artroom1/im0.png
 !wget -O right.png https://vision.middlebury.edu/stereo/data/scenes2021/data/artroom1/im1.png
