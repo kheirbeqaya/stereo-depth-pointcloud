@@ -79,15 +79,13 @@ The pipeline successfully reconstructs a meaningful 3D representation of the sce
 
 ### Depth Map
 
-<img width="481" height="411" alt="download" src="https://github.com/user-attachments/assets/72309926-4076-4481-9362-d4f2186efbbc" />
-
+![Depth Map](results/depth_map.png)
 
 ### Filtered 3D Point Cloud
 
 
 
-<img width="636" height="658" alt="download (1)" src="https://github.com/user-attachments/assets/5774cadf-9009-4931-adfd-5d93abc409d1" />
-
+![Point Cloud](results/pointcloud.png)
 
 ## Camera Calibration
 
